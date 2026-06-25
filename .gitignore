@@ -1,0 +1,12 @@
+build/
+*.tap
+*.sna
+*.trd
+*.bin
+*.obj
+*.lst
+*.sym
+*.map
+*~
+.DS_Store
+Thumbs.db
